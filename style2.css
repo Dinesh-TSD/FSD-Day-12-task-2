@@ -1,0 +1,37 @@
+.main{
+    background-color: aquamarine;
+    height: 1000px;
+}
+.sub{
+    background-color: rgb(83, 91, 234);
+    height: 300px;
+}
+.main{
+    padding-top: 150px;
+}
+.main .pro{
+    height: 200px;
+    margin: 40px;
+}
+.main .pro img{
+    height: 170px;
+    width: 170px;
+    border-radius: 200px;
+    margin-left: 40px;
+    
+}
+.main .set{
+    height: 400px;
+    max-width: 1000px;
+    margin: 25px;
+}
+.main input{
+    width: 300px;
+}
+.main label{
+    padding-left: 100px;
+}
+.main .pad{
+    margin: 20px;
+}
+
